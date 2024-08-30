@@ -10,6 +10,7 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo de Python" width="200">
 ---
 ## 🌱 Aprendiendo Actualmente
+---
 - C++
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="Cat" width="200">
 
