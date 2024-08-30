@@ -45,7 +45,7 @@ Algunos de mis compañeros son:
 
 ### [Danielo](#)
 
-<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="William19D" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="[William19D](https://github.com/William19D)" width="150" style="border-radius: 50%;">
 
 Danilo el flaquillo, le gusta montar bicicleta.
 
