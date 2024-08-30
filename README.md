@@ -1,4 +1,4 @@
-# ¡Hola, soy Lucho! 👋 Algunos me conocen por Luisosky. 
+# ¡Hola, soy Lucho! 👋 Algunos me conocen por Luisosky.
 
 ---
 
@@ -34,3 +34,41 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
 - **Lua**
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Logo de Lua" width="300">
   <p>Imagen de <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg">Alexandre Nakonechnyj (Graphic design) and Lua team (PostScript code)</a>, Public domain, vía Wikimedia Commons.</p>
+
+---
+
+## 👥 Compañeros
+
+---
+Algunos de mis compañeros son:
+
+
+### [Danielo](#)
+
+<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="William19D" width="150" style="border-radius: 50%;">
+
+Danilo el flaquillo, le gusta montar bicicleta.
+
+---
+
+### [Permomo](#)
+
+<img src="https://avatars.githubusercontent.com/u/99854835?v=4" alt="ElJuanchito" width="150" style="border-radius: 50%;">
+
+El momo de permomo, gran compañero.
+
+---
+
+### [Odiador](#)
+
+<img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Amador" width="150" style="border-radius: 50%;">
+
+Programador
+
+---
+
+### [Tormenta](#)
+
+<img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Santrich" width="150" style="border-radius: 50%;">
+
+Top laner
