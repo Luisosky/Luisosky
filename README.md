@@ -1,6 +1,7 @@
-# ¡Hola, soy Lucho! Algunos me conocen por Luisosky. 
+# ¡Hola, soy Lucho! 👋 Algunos me conocen por Luisosky. 
 
-Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sistemas y computación. Me centro principalmente en java ☕️ y me llama mucho la atención el BackEnd. Intento dar lo mejor de mi para poder aprender nuevas cosas y ser un buen profesional en un futuro proximo
+Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sistemas y computación. Me centro principalmente en java ☕️ y me llama mucho la atención el BackEnd. Intento dar lo mejor de mi para poder aprender nuevas cosas y ser un buen profesional en un futuro proximo.
+
 ![Programador](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif))
 
 
