@@ -14,8 +14,54 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Logo de Java" width="200" style="margin-right: 20px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo de Python" width="200">
+### ☕ Java
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Logo de Java" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">Java Programming Language Logo</a>, vía Wikimedia Commons.</p>
+
+### 🐍 Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo de Python" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">Python Software Foundation</a>, licencia Creative Commons, vía Wikimedia Commons.</p>
+
+### 🌐 HTML5
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo de HTML5" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">W3C</a>, licencia Creative Commons, vía Wikimedia Commons.</p>
+
+### 💻 JavaScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="Logo de JavaScript" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">JavaScript Logo</a>, vía Wikimedia Commons.</p>
+
+### 💾 SQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Sql-icon.svg" alt="Logo de SQL" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Sql-icon.svg">SQL Icon</a>, vía Wikimedia Commons.</p>
+
+---
+
+## 🛠️ Herramientas
+
+---
+
+### IntelliJ IDEA
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Logo de IntelliJ IDEA" width="150">
+
+<p>Imagen de <a href="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg">JetBrains</a>, licencia Creative Commons, vía Wikimedia Commons.</p>
+
+### Visual Studio Code
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Logo de Visual Studio Code" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">Microsoft</a>, licencia Creative Commons, vía Wikimedia Commons.</p>
+
+### VirtualBox
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Logo de VirtualBox" width="150">
+
+<p>Imagen de <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">Oracle</a>, licencia Creative Commons, vía Wikimedia Commons.</p>
 
 ---
 
@@ -40,12 +86,10 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
 ## 👥 Compañeros
 
 ---
-Algunos de mis compañeros son:
-
 
 ### [Danielo](#)
 
-<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="[William19D](https://github.com/William19D)" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="Danielo" width="150" style="border-radius: 50%;">
 
 Danilo el flaquillo, le gusta montar bicicleta.
 
@@ -53,7 +97,7 @@ Danilo el flaquillo, le gusta montar bicicleta.
 
 ### [Permomo](#)
 
-<img src="https://avatars.githubusercontent.com/u/99854835?v=4" alt="ElJuanchito" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/99854835?v=4" alt="Permomo" width="150" style="border-radius: 50%;">
 
 El momo de permomo, gran compañero.
 
@@ -61,14 +105,16 @@ El momo de permomo, gran compañero.
 
 ### [Odiador](#)
 
-<img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Amador" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Odiador" width="150" style="border-radius: 50%;">
 
-Programador
+Programador.
 
 ---
 
 ### [Tormenta](#)
 
-<img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Santrich" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Tormenta" width="150" style="border-radius: 50%;">
 
-Top laner
+Top laner.
+
+---
