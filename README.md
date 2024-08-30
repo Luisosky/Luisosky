@@ -107,7 +107,7 @@ El momo de permomo, gran compañero.
 
 <img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Odiador" width="150" style="border-radius: 50%;">
 
-Programador.
+Programador-Calculador-Culiador-Integrador-Diferenciador-Pensador.
 
 ---
 
@@ -115,6 +115,6 @@ Programador.
 
 <img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Tormenta" width="150" style="border-radius: 50%;">
 
-Top laner.
+Santrich del monte, Top laner.
 
 ---
