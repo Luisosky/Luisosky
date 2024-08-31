@@ -78,7 +78,7 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
   <p>Imagen de <a href="https://commons.wikimedia.org/wiki/File:Godot_logo_original_vertical.svg">Godot Engine Team</a>, licencia CC BY 4.0, vía Wikimedia Commons.</p>
 
 - **Lua**
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Logo de Lua" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Logo de Lua" width="200">
   <p>Imagen de <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg">Alexandre Nakonechnyj (Graphic design) and Lua team (PostScript code)</a>, Public domain, vía Wikimedia Commons.</p>
 
 ---
