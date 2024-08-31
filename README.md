@@ -1,5 +1,5 @@
 # ¡Hola, soy Lucho! 👋 Algunos me conocen por Luisosky. 
-<img src="perfil.png" width="150" style="border-radius: 50%;">
+<img src="128423397.png" width="150" style="border-radius: 50%;">
 ---
 
 Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sistemas y computación. Me centro principalmente en java ☕️ y me llama mucho la atención el BackEnd. Intento dar lo mejor de mi para poder aprender nuevas cosas y ser un buen profesional en un futuro proximo.
