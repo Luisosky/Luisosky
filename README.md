@@ -95,6 +95,14 @@ Danilo el flaquillo, le gusta montar bicicleta.
 
 ---
 
+### [Zetazeta](#)
+
+<img src="https://avatars.githubusercontent.com/u/126695825?v=4" alt="zorra" width="150" style="border-radius: 50%;">
+
+Zetazetiada, es homosexual
+
+---
+
 ### [Permomo](#)
 
 <img src="https://avatars.githubusercontent.com/u/99854835?v=4" alt="Permomo" width="150" style="border-radius: 50%;">
@@ -116,5 +124,13 @@ Programador-Calculador-Culiador-Integrador-Diferenciador-Pensador.
 <img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Tormenta" width="150" style="border-radius: 50%;">
 
 Santrich del monte, Top laner.
+
+---
+
+### [Carbasexo](#)
+
+<img src="https://avatars.githubusercontent.com/u/101294944?v=4" alt="luichenza" width="150" style="border-radius: 50%;">
+
+Costeño, evil luisosky
 
 ---
