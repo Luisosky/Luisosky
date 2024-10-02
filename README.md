@@ -116,7 +116,7 @@ El momo de permomo, gran compañero.
 
 <img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Odiador" width="150" style="border-radius: 50%;">
 
-Programador-Calculador-Culiador-Integrador-Diferenciador-Pensador.
+Amador-Programador-Calculador-Culiador-Integrador-Diferenciador-Pensador.
 
 ---
 
