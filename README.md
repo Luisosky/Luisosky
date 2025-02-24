@@ -84,49 +84,7 @@ Soy un estudiante de la universidad del Quindio cursando la carrera de ing. sist
 
 ---
 
-## 👥 Compañeros
 
----
-
-### [Danielo](#)
-
-<img src="https://avatars.githubusercontent.com/u/88367009?v=4" alt="Danielo" width="150" style="border-radius: 50%;">
-
-Danilo el flaquillo, le gusta montar bicicleta.
-
----
-
-### [Zetazeta](#)
-
-<img src="https://avatars.githubusercontent.com/u/126695825?v=4" alt="zorra" width="150" style="border-radius: 50%;">
-
-Zetazetiada, es homosexual
-
----
-
-### [Permomo](#)
-
-<img src="https://avatars.githubusercontent.com/u/99854835?v=4" alt="Permomo" width="150" style="border-radius: 50%;">
-
-El momo de permomo, gran compañero.
-
----
-
-### [Odiador](#)
-
-<img src="https://avatars.githubusercontent.com/u/115110279?v=4" alt="Odiador" width="150" style="border-radius: 50%;">
-
-Amador-Programador-Calculador-Culiador-Integrador-Diferenciador-Pensador.
-
----
-
-### [Tormenta](#)
-
-<img src="https://avatars.githubusercontent.com/u/94409923?v=4" alt="Tormenta" width="150" style="border-radius: 50%;">
-
-Santrich del monte, Top laner.
-
----
 
 ### [Carbasexo](#)
 
