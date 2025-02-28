@@ -1,4 +1,4 @@
-<h2 align="center">:grin: Acerca de mí</h2>
+<h2 align="center">:octocat:: Acerca de mí</h2>
 
 
 <h5 align="center">
