@@ -1,9 +1,6 @@
 # Acerca de mi
-<img src="128423397.png" width="150" style="border-radius: 50%;">
-
----
 </h5>
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="300" height="auto" />
 - 🎓 <b>Actualmente estoy estudiando ... </b></br>
       Ingenieria de sistemas en la universidad del quindio
 - 🧪 <b>Actualmente trabajando en ... </b></br>
@@ -33,4 +30,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=radical&line_height=27&hide=glsl,python" alt="Luisosky Github Stats" /></p>
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Luisosky&theme=dark&background=141321" alt="Luisosky Github Stats" /></p>
-
