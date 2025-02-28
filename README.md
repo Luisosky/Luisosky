@@ -17,7 +17,7 @@
 </h5>
 
 
-<img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="300" height="auto" />
 
 - 🎓 <b>Actualmente estoy estudiando ... </b></br>
   Ingeniería de Sistemas en la Universidad del Quindío.
