@@ -1,4 +1,6 @@
 # Acerca de mi
+<h5 align="center">
+      
 </h5>
 <img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="200" height="auto" />
 - 🎓 <b>Actualmente estoy estudiando ... </b></br>
