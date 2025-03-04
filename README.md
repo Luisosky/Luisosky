@@ -1,4 +1,4 @@
-<h2 align="center">🐈‍⬛: Acerca de mí</h2>
+<h2 align="center">🐈‍⬛ Acerca de mí 🐈‍⬛</h2>
 
 
 <h5 align="center">
