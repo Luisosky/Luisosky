@@ -53,5 +53,5 @@
 
 <h2 align="center">:bar_chart: Github Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=radical&line_height=27&hide=glsl,python" alt="Luisosky Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=radical&line_height=27&hide=glsl,python" alt="Luisosky Github stats" /></p>
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Luisosky&theme=dark&background=141321" alt="Luisosky Github Stats" /></p>
