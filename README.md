@@ -32,7 +32,7 @@
   Graduarme xd.
   
 - ⚡ <b>Fun facts:</b> </br>
-  Maybe I'm not the bad guy, but I'm awful.
+  Maybe I'm not the bad guy, but I'm awful. ( awful · nicopatty )
 
 
 ---
