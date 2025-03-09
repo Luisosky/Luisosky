@@ -23,7 +23,7 @@
   Ingeniería de Sistemas en la Universidad del Quindío.
   
 - 🧪 <b>Actualmente trabajando en ... </b></br>
-  Proycto personal (pos), proyecto de programación avanzada, proyecto de base de datos 1, proyecto de ingeniería de software 2.
+  Proycto personal (POS), proyecto de programación avanzada, proyecto de base de datos 1, proyecto de ingeniería de software 2.
   
 - 🧠 <b>Actualmente aprendiendo ... </b></br>
   Tecnologías de frontend y backend, bases de datos y AWS.
