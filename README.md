@@ -31,8 +31,8 @@
 - 🔎 <b>Actualmente busco ... </b></br>
   Graduarme xd.
   
-- ⚡ <b>Fun facts:</b> </br>
-  Maybe I'm not the bad guy, but I'm awful. ( awful · nicopatty )
+- 🎵 <b>Favorite Artists:</b> </br>
+  Nicopatty - jim legxacy
 
 
 ---
