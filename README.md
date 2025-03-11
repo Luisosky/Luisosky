@@ -31,7 +31,7 @@
 - 🔎 <b>Actualmente busco ... </b></br>
   Graduarme xd.
   
-- 🎵 <b>Favorite Artists:</b> </br>
+- 🎵 <b>Favorite Artists ... </b> </br>
   Nicopatty - jim legxacy
 
 
