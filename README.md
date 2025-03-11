@@ -32,7 +32,7 @@
   Graduarme xd.
   
 - 🎵 <b>Favorite Artists ... </b> </br>
-  Nicopatty - jim legxacy
+  Nicopatty - Jim Legxacy
 
 
 ---
