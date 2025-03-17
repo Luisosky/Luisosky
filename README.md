@@ -35,11 +35,11 @@ const aboutMe = {
   favoriteArtists: [
     {
       name: "Nicopatty",
-      favorite_song: "hey lol"
+      favoriteSong: "hey lol"
     },
     {
       name: "Jim Legxacy",
-      favorite_song: "father"
+      favoriteSong: "father"
     }
   ]
 };
