@@ -51,7 +51,7 @@ const aboutMe = {
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <p><strong>Nicopatty</strong></p>
-    <img src='https://raw.githubusercontent.com/Luisosky/images/nicopatty.jpg' alt='Nicopatty' width='100'/>
+    <img src='https://raw.githubusercontent.com/Luisosky/images/main/nicopatty.jpg' alt='Nicopatty' width='100'/>
   </div>
   <div style="display: inline-block; margin: 10px;">
     <p><strong>Jim Legxacy</strong></p>
