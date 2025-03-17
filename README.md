@@ -17,8 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
 
-```html
-<script>
+```javascript
 const aboutMe = {
   education: "Ingeniería de Sistemas en la Universidad del Quindío",
   currentProjects: [
@@ -36,15 +35,14 @@ const aboutMe = {
   favoriteArtists: [
     {
       name: "Nicopatty",
-      image: "<img src='https://raw.githubusercontent.com/Luisosky/images/main/nicopatty.jpg' alt='Nicopatty' width='100'/>"
+      favorite_song: "hey lol"
     },
     {
       name: "Jim Legxacy",
-      image: "<img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>"
+      favorite_song: "father"
     }
   ]
 };
-</script>
 ```
 
 ## Mis artistas favoritos
