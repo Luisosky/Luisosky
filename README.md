@@ -15,7 +15,7 @@
   </a>
 </h5>
 
-<img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ```javascript
 const aboutMe = {
@@ -35,11 +35,11 @@ const aboutMe = {
   favoriteArtists: [
     {
       name: "Nicopatty",
-      image: "URL_DE_LA_IMAGEN_DE_NICOPATTY"
+      image: "https://raw.githubusercontent.com/Luisosky/images/main/nicopatty"
     },
     {
       name: "Jim Legxacy",
-      image: "URL_DE_LA_IMAGEN_DE_JIM_LEGXACY"
+      image: "https://raw.githubusercontent.com/Luisosky/images/main/jim"
     }
   ]
 };
