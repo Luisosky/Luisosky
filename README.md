@@ -1,6 +1,5 @@
 <h2 align="center">🐈‍⬛ Acerca de mí 🐈‍⬛</h2>
 
-
 <h5 align="center">
   <a href="https://www.linkedin.com/in/tu-usuario" title="LinkedIn Profile">
     <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> 
@@ -16,29 +15,39 @@
   </a>
 </h5>
 
-
 <img src="https://avatars.githubusercontent.com/u/128423397?v=4" alt="side Image" align="right" width="300" height="auto" />
 
-- 🎓 <b>Actualmente estoy estudiando ... </b></br>
-  Ingeniería de Sistemas en la Universidad del Quindío.
-  
-- 🧪 <b>Actualmente trabajando en ... </b></br>
-  Proyecto personal (POS), proyecto de programación avanzada, proyecto de base de datos 1, proyecto de ingeniería de software 2.
-  
-- 🧠 <b>Actualmente aprendiendo ... </b></br>
-  Tecnologías de frontend y backend, bases de datos y AWS.
-  
-- 🔎 <b>Actualmente busco ... </b></br>
-  Graduarme xd.
-  
-- 🎵 <b>Favorite Artists ... </b> </br>
-  Nicopatty - Jim Legxacy
-
+```javascript
+const aboutMe = {
+  education: "Ingeniería de Sistemas en la Universidad del Quindío",
+  currentProjects: [
+    "Proyecto personal (POS)",
+    "Proyecto de programación avanzada",
+    "Proyecto de base de datos 1",
+    "Proyecto de ingeniería de software 2"
+  ],
+  learning: [
+    "Tecnologías de frontend y backend",
+    "Bases de datos",
+    "AWS"
+  ],
+  lookingFor: "Graduarme xd",
+  favoriteArtists: [
+    {
+      name: "Nicopatty",
+      image: "URL_DE_LA_IMAGEN_DE_NICOPATTY"
+    },
+    {
+      name: "Jim Legxacy",
+      image: "URL_DE_LA_IMAGEN_DE_JIM_LEGXACY"
+    }
+  ]
+};
+```
 
 ---
 
 <h2 align="center">:wrench: Lenguajes y herramientas</h2>
-</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
@@ -51,8 +60,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
-
 
 ---
 
