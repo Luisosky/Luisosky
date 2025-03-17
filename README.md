@@ -47,6 +47,18 @@ const aboutMe = {
 </script>
 ```
 
+## Mis artistas favoritos
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <p><strong>Nicopatty</strong></p>
+    <img src='https://raw.githubusercontent.com/Luisosky/images/main/nicopatty.jpg' alt='Nicopatty' width='100'/>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <p><strong>Jim Legxacy</strong></p>
+    <img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>
+  </div>
+</div>
+
 ---
 
 <h2 align="center">:wrench: Lenguajes y herramientas</h2>
