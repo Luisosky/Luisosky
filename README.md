@@ -35,11 +35,11 @@ const aboutMe = {
   favoriteArtists: [
     {
       name: "Nicopatty",
-      image: "https://raw.githubusercontent.com/Luisosky/images/main/nicopatty"
+      image: "https://raw.githubusercontent.com/Luisosky/images/main/nicopatty.jpg"
     },
     {
       name: "Jim Legxacy",
-      image: "https://raw.githubusercontent.com/Luisosky/images/main/jim"
+      image: "https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg"
     }
   ]
 };
