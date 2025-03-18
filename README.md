@@ -59,9 +59,9 @@ const aboutMe = {
     <p><strong>Jim Legxacy</strong></p>
     <img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 15px;">
     <p><strong>Lil Tecca</strong></p>
-    <img src='https://raw.githubusercontent.com/Luisosky/images/main/lil tecca.jpg' alt='lil tecca' width='100'/>
+    <img src='https://raw.githubusercontent.com/Luisosky/images/main/lil tecca.jpg' alt='lil tecca' width='150'/>
   </div>
 </div>
 
