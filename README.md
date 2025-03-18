@@ -38,6 +38,10 @@ const aboutMe = {
       favoriteSong: "change my mind"
     },
     {
+      name: "Lil Tecca",
+      favoriteSong: "Dark Thoughts"
+    },
+    {
       name: "Jim Legxacy",
       favoriteSong: "father"
     }
@@ -54,6 +58,10 @@ const aboutMe = {
   <div style="display: inline-block; margin: 10px;">
     <p><strong>Jim Legxacy</strong></p>
     <img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <p><strong>Lil Teccay</strong></p>
+    <img src='https://raw.githubusercontent.com/Luisosky/images/main/lil tecca.jpg' alt='lil tecca' width='100'/>
   </div>
 </div>
 
