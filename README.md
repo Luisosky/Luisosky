@@ -60,7 +60,7 @@ const aboutMe = {
     <img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>
   </div>
   <div style="display: inline-block; margin: 10px;">
-    <p><strong>Lil Teccay</strong></p>
+    <p><strong>Lil Tecca</strong></p>
     <img src='https://raw.githubusercontent.com/Luisosky/images/main/lil tecca.jpg' alt='lil tecca' width='100'/>
   </div>
 </div>
