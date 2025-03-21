@@ -24,7 +24,8 @@ const aboutMe = {
     "Proyecto personal (POS)",
     "Proyecto de programación avanzada",
     "Proyecto de base de datos 1",
-    "Proyecto de ingeniería de software 2"
+    "Proyecto de ingeniería de software 2",
+    "Proyecto de Grupo de IA"
   ],
   learning: [
     "Tecnologías de frontend y backend",
