@@ -40,34 +40,19 @@ const aboutMe = {
     },
     {
       name: "Lil Tecca",
-      favoriteSong: "Dark Thoughts"
+      favoriteSong: "Knock"
     },
     {
       name: "Jim Legxacy",
       favoriteSong: "father"
+    },
+    {
+      name: "Pinkpantheress"
+      favoriteSong: "Time With Me"
     }
   ]
 };
 ```
-
-## Mis artistas favoritos
-<div align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <p><strong>Nicopatty</strong></p>
-    <img src='https://raw.githubusercontent.com/Luisosky/images/main/nicopatty.jpg' alt='Nicopatty' width='100'/>
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <p><strong>Jim Legxacy</strong></p>
-    <img src='https://raw.githubusercontent.com/Luisosky/images/main/jim.jpg' alt='Jim Legxacy' width='100'/>
-  </div>
-  <div style="display: inline-block; margin: 15px;">
-    <p><strong>Lil Tecca</strong></p>
-    <img src='https://raw.githubusercontent.com/Luisosky/images/main/lil tecca.jpg' alt='lil tecca' width='150'/>
-  </div>
-</div>
-
----
-
 <h2 align="center">:wrench: Lenguajes y herramientas</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
