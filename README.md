@@ -47,6 +47,10 @@ const aboutMe = {
       favoriteSong: "father"
     },
     {
+      name: "Lil B",
+      favoriteSong: "B.O.R.(Birth Of Rap)"
+    },
+    {
       name: "Pinkpantheress"
       favoriteSong: "Time With Me"
     }
