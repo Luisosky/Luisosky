@@ -35,6 +35,10 @@ const aboutMe = {
   lookingFor: "Graduarme xd",
   favoriteArtists: [
     {
+      name: "Tyler, The Creator",
+      favoriteSong: "HEAVEN TO ME"
+    },
+    {
       name: "Nicopatty",
       favoriteSong: "downbad"
     },
