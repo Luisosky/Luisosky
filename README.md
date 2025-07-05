@@ -94,22 +94,40 @@ const aboutMe = {
 
 <div align="center">
   <h2>🎶 Spotify</h2>
-  
-  <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy">
-    <img src="https://img.shields.io/badge/Follow%20me-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-  
-  <br><br>
-  
-  <h3>🎵 Escuchado recientemente</h3>
-  <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=5" alt="Spotify recently played"/>
-  </a>
-  
-  <br><br>
-  
-  <h3>🔥 Top Tracks</h3>
-  <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=8&unique=true" alt="Top Spotify Tracks"/>
-  </a>
+
+  <!-- Perfil de Spotify -->
+  <div>
+    <h3>📱 Mi Perfil</h3>
+    <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Spotify Profile"/>
+    </a>
+  </div>
+
+  <!-- Canciones reproducidas recientemente -->
+  <div>
+    <h3>🔥 Reproducidas recientemente</h3>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=5" alt="Spotify recently played" style="border-radius: 10px;"/>
+  </div>
+
+  <!-- Top tracks -->
+  <div>
+    <h3>🎵 Top Tracks</h3>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=10&unique=true" alt="Top Spotify Tracks" style="border-radius: 10px;"/>
+  </div>
+
+  <!-- Playlists destacadas -->
+  <div>
+    <h3>🎧 Mis Playlists</h3>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV" target="_blank">
+            <img src="https://img.shields.io/badge/Mi%20Playlist-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Mi Playlist"/>
+          </a>
+          <br>
+          <sub><b>Mi lista personal</b></sub>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
