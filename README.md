@@ -103,13 +103,21 @@ const aboutMe = {
     </a>
   </div>
   
+  <!-- Canciones reproducidas recientemente -->
+  <div>
+    <h3>🔥 Reproducidas recientemente</h3>
+    <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" target="_blank">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=5" alt="Spotify recently played"/>
+    </a>
+  </div>
+  
   <br>
   
   <!-- Top tracks -->
   <div>
-    <h3>🔥 Top Tracks</h3>
+    <h3>🎵 Top Tracks</h3>
     <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" target="_blank">
-      <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=1ED760&limit=5" alt="Top Spotify Tracks"/>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lelvtckaeiuckdkww5rx5zmy&count=10&unique=true" alt="Top Spotify Tracks"/>
     </a>
   </div>
   
@@ -121,13 +129,6 @@ const aboutMe = {
     <table>
       <tr>
         <td align="center">
-          <a href="https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp" target="_blank">
-            <img src="https://img.shields.io/badge/Top%20Songs-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Top Songs"/>
-          </a>
-          <br>
-          <sub><b>Canciones más escuchadas</b></sub>
-        </td>
-        <td align="center">
           <a href="https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV" target="_blank">
             <img src="https://img.shields.io/badge/Mi%20Playlist-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Mi Playlist"/>
           </a>
@@ -136,15 +137,5 @@ const aboutMe = {
         </td>
       </tr>
     </table>
-  </div>
-  
-  <br>
-  
-  <!-- Estadísticas -->
-  <div>
-    <h3>📊 Estadísticas</h3>
-    <img src="https://img.shields.io/badge/Géneros%20favoritos-Pop%20%7C%20Rock%20%7C%20Electronic-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Géneros favoritos"/>
-    <br>
-    <img src="https://img.shields.io/badge/Horas%20de%20música-∞-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Horas de música"/>
   </div>
 </div>
