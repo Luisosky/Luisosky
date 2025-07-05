@@ -32,11 +32,7 @@
 const aboutMe = {
   education: "Ingeniería de Sistemas en la Universidad del Quindío",
   currentProjects: [
-    "Proyecto personal (POS)",
-    "Proyecto de programación avanzada",
-    "Proyecto de base de datos 1",
-    "Proyecto de ingeniería de software 2",
-    "Proyecto de Grupo de IA"
+    "Proyecto personal (POS)"
   ],
   learning: [
     "Tecnologías de frontend y backend",
