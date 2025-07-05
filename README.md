@@ -35,28 +35,28 @@ const aboutMe = {
   lookingFor: "Graduarme xd",
   favoriteArtists: [
     {
-      name: "Tyler, The Creator",
-      favoriteSong: "HEAVEN TO ME"
+      name: "untiljapan"
     },
     {
-      name: "Nicopatty",
-      favoriteSong: "downbad"
+      name: "nicopatty"
     },
     {
-      name: "Lil Tecca",
-      favoriteSong: "Knock"
+      name: "YT"
     },
     {
-      name: "Jim Legxacy",
-      favoriteSong: "father"
+      name: "Jim Legxacy"
     },
     {
-      name: "Lil B",
-      favoriteSong: "B.O.R.(Birth Of Rap)"
+      name: "Xaviersobased"
     },
     {
-      name: "Pinkpantheress",
-      favoriteSong: "Time With Me"
+      name: "Che"
+    },
+    {
+      name: "2hollis"
+    },
+    {
+      name: "Nettspend"
     }
   ]
 };
@@ -88,4 +88,63 @@ const aboutMe = {
     <div style="display: inline-block; margin: 0 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Luisosky Github Stats" />
     </div>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎶 Spotify</h2>
+  
+  <!-- Perfil de Spotify -->
+  <div>
+    <h3>📱 Mi Perfil</h3>
+    <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Spotify Profile"/>
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- Top tracks -->
+  <div>
+    <h3>🔥 Top Tracks</h3>
+    <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" target="_blank">
+      <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=1ED760&limit=5" alt="Top Spotify Tracks"/>
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- Playlists destacadas -->
+  <div>
+    <h3>🎧 Mis Playlists</h3>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp" target="_blank">
+            <img src="https://img.shields.io/badge/Top%20Songs-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Top Songs"/>
+          </a>
+          <br>
+          <sub><b>Canciones más escuchadas</b></sub>
+        </td>
+        <td align="center">
+          <a href="https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV" target="_blank">
+            <img src="https://img.shields.io/badge/Mi%20Playlist-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Mi Playlist"/>
+          </a>
+          <br>
+          <sub><b>Mi lista personal</b></sub>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <br>
+  
+  <!-- Estadísticas -->
+  <div>
+    <h3>📊 Estadísticas</h3>
+    <img src="https://img.shields.io/badge/Géneros%20favoritos-Pop%20%7C%20Rock%20%7C%20Electronic-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Géneros favoritos"/>
+    <br>
+    <img src="https://img.shields.io/badge/Horas%20de%20música-∞-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Horas de música"/>
+  </div>
 </div>
