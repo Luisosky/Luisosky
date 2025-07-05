@@ -12,14 +12,19 @@
   <a href="https://twitter.com/Luisosky15" title="Twitter Profile">
     <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> 
     Twitter
-  </a>
-</h5>
-<h5 align="center">
+  </a> •
   <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" title="Spotify Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spotify.svg" style="filter: invert(41%) sepia(99%) saturate(749%) hue-rotate(88deg) brightness(97%) contrast(101%);"> 
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg" style="background: #1DB954; border-radius: 3px;"> 
     Spotify
   </a>
 </h5>
+
+<!-- Spotify Favorite Playlist Badge -->
+<p align="center">
+  <a href="https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV" title="Mi Playlist Favorita">
+    <img src="https://img.shields.io/badge/Escucha%20mi%20playlist%20favorita-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Mi Playlist Favorita en Spotify"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
 
@@ -56,10 +61,11 @@ const aboutMe = {
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ---
+
 <h2 align="center">:bar_chart: Github Stats</h2>
 <div align="center">
     <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Luisosky Github stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Luisosky Top Langs" />
     </div>
     <div style="display: inline-block; margin: 0 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisosky&theme=tokyonight&hide_border=false" alt="Luisosky Streak Stats" />
@@ -68,6 +74,3 @@ const aboutMe = {
         <img src="https://github-readme-stats.vercel.app/api?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Luisosky Github Stats" />
     </div>
 </div>
-
-
- 
