@@ -76,17 +76,16 @@ const aboutMe = {
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ---
----
 
 <h2 align="center">🎧 Spotify</h2>
 <div align="center">
-    <!-- Spotify Profile Widget -->
+
     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3125lelvtckaeiuckdkww5rx5zmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-    <!-- Spotify Playlist Placeholder -->
+
     [![My Playlist](https://mosaic.scdn.co/640/5lXJF5r1bq8tNCgZt2hVpV)](https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV)
 
-    <!-- Top Tracks This Month (Dynamic Placeholder) -->
+
       [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=3125lelvtckaeiuckdkww5rx5zmy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy)
 </div>
 
