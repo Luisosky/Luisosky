@@ -32,33 +32,7 @@ const aboutMe = {
     "Bases de datos",
     "AWS"
   ],
-  lookingFor: "Graduarme xd",
-  favoriteArtists: [
-    {
-      name: "untiljapan"
-    },
-    {
-      name: "nicopatty"
-    },
-    {
-      name: "YT"
-    },
-    {
-      name: "Jim Legxacy"
-    },
-    {
-      name: "Xaviersobased"
-    },
-    {
-      name: "Che"
-    },
-    {
-      name: "2hollis"
-    },
-    {
-      name: "Nettspend"
-    }
-  ]
+  lookingFor: "Graduarme xd"
 };
 ```
 <h2 align="center">:wrench: Lenguajes y herramientas</h2>
@@ -90,4 +64,4 @@ const aboutMe = {
 </div>
 
 
-
+ 
