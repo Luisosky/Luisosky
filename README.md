@@ -14,6 +14,12 @@
     Twitter
   </a>
 </h5>
+<h5 align="center">
+  <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" title="Spotify Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spotify.svg" style="filter: invert(41%) sepia(99%) saturate(749%) hue-rotate(88deg) brightness(97%) contrast(101%);"> 
+    Spotify
+  </a>
+</h5>
 
 <img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
 
