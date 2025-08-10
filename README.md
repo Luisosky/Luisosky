@@ -1,18 +1,6 @@
 <h2 align="center">🐈‍⬛ Acerca de mí 🐈‍⬛</h2>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario" title="LinkedIn Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> 
-    LinkedIn
-  </a> •
-  <a href="https://www.instagram.com/luichosky" title="Instagram Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> 
-    Instagram
-  </a> •
-  <a href="https://twitter.com/Luisosky15" title="Twitter Profile">
-    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> 
-    Twitter
-  </a> •
   <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" title="Spotify Profile">
     <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg" style="background: #1DB954; border-radius: 3px;"> 
     Spotify
