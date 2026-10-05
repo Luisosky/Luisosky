@@ -27,7 +27,7 @@ const aboutMe = {
     "Bases de datos",
     "AWS"
   ],
-  lookingFor: "Graduarme xd"
+  lookingFor: ""
 };
 ```
 <h2 align="center">:wrench: Lenguajes y herramientas</h2>
