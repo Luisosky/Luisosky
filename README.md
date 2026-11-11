@@ -1,18 +1,4 @@
-<h2 align="center">🐈‍⬛ Acerca de mí 🐈‍⬛</h2>
-
-<h5 align="center">
-  <a href="https://open.spotify.com/user/3125lelvtckaeiuckdkww5rx5zmy" title="Spotify Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg" style="background: #1DB954; border-radius: 3px;"> 
-    Spotify
-  </a>
-</h5>
-
-<!-- Spotify Favorite Playlist Badge -->
-<p align="center">
-  <a href="https://open.spotify.com/playlist/5lXJF5r1bq8tNCgZt2hVpV" title="Mi Playlist Favorita">
-    <img src="https://img.shields.io/badge/Escucha%20mi%20playlist%20favorita-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Mi Playlist Favorita en Spotify"/>
-  </a>
-</p>
+<h2 align="center">Acerca de mí</h2>
 
 <img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
 
