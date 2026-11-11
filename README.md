@@ -1,46 +1,51 @@
 <h2 align="center">Acerca de mí</h2>
 
-<img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://raw.githubusercontent.com/Luisosky/images/main/maxwell.gif" alt="Maxwell" align="right" width="220" />
 
 ```javascript
 const aboutMe = {
   education: "Ingeniería de Sistemas en la Universidad del Quindío",
   currentProjects: [
-    "Proyecto personal (POS)"
+    "Trabajar"
   ],
   learning: [
     "Tecnologías de frontend y backend",
     "Bases de datos",
     "AWS"
   ],
-  lookingFor: ""
+  lookingFor: "Nuevas oportunidades de desarrollo y retos técnicos"
 };
 ```
-<h2 align="center">:wrench: Lenguajes y herramientas</h2>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+<h2 align="center">🛠️ Lenguajes y herramientas</h2>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <br/>
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-<h2 align="center">:bar_chart: Github Stats</h2>
-<div align="center">
-    <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Luisosky Top Langs" />
-    </div>
-    <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisosky&theme=tokyonight&hide_border=false" alt="Luisosky Streak Stats" />
-    </div>
-    <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Luisosky Github Stats" />
-    </div>
-</div>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Luisosky&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Estadísticas de Luisosky" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luisosky&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" alt="Top Lenguajes de Luisosky" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Luisosky&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" />
+</p>
